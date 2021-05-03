@@ -1,0 +1,2 @@
+# ovhmethod
+ovh ddos script
